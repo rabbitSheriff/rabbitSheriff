@@ -108,6 +108,4 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_recaptcha/google_recaptcha-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></code>
 </div>
