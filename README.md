@@ -1,13 +1,6 @@
-<div align="center">
-  <h3 align="center">
-You have stayed on my page for:
-</h3>
+
   
-  <p align="center">
-<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
-</p>
-  
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Crazy Onliner</h1>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm R@bbit Sheriff</h1>
   </div>
   
 <div align="center">  
@@ -24,7 +17,7 @@ You have stayed on my page for:
   ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
