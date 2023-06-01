@@ -1,6 +1,7 @@
 
   
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm R@bbit Sheriff</h1>
+  <h1 align="center">Full-Stack developer</h1>
   </div>
   
 <div align="center">  
